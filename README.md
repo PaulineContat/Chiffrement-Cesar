@@ -2,16 +2,16 @@
 
 Projet réalisé par CONTAT Pauline, LEMIRE Elléa et WAZYDRAG Théo (B1)
 
-Ce projet est disponible via ce lien : https://github.com/PaulineContat/Chiffrement-Cesar ( Nous vous conseillons de lire le README directement sur la page d'accueil du projet via GitHub ).
+Ce projet est disponible via ce lien : https://github.com/PaulineContat/Chiffrement-Cesar.
 
-Notre projet utilise 2 fonctionnalités distinctes telles que le codage et le décodage en César de saisie de texte
+Notre projet permet de chiffrer ou déchiffrer un message en César.
 
-Elle fonctionne avec l'ensemble des caractères, aussi bien les lettres que les caractères spéciaux de la table ASCII de base.
-Cela comprend donc les lettres majuscules et minuscules que l'application utilise, mais aussi elle utilise les chiffres.
+Notre application fonctionne avec l'ensemble des caractères contenus dans la table ASCII, dont les lettres en majuscules, et les chiffres, mais pas les lettres avec accents.
 
 # Utilisation de ce projet
 
-Avant tous, il est nécessaire de compiler l'entièreté des fichiers, pour cela il faut utiliser le makefile fourni dans le git, puis ensuite taper les commandes makeall et enfin pour mettre en route le programme il faut taper la commande ./main. Ces commandes nécessitent pour le bon fonctionnement un terminal sous Linux.
+Avant tout, il faut compiler le projet grâce au makefile avec la commande make all,et pour démarrer le programme il faut taper la commande ./main.
+Ces commandes nécessitent pour le bon fonctionnement un terminal sous Linux.
 
 # Documentation des fonctions
 
