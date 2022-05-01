@@ -18,28 +18,28 @@ Avant tous, il est nécessaire de compiler l'entièreté des fichiers, pour cela
 
 ### • char chiffrerCesarCar(int cle, char c)
 
-entrée : entier Nombre de décalages à appliquer vers l’avant.
+entrée : (entier) Nombre de décalages à appliquer vers l’avant.
 caractère Le caractère à chiffrer.
 
-sortie : caractère Le caractère chiffré.
+sortie : (caractère) Le caractère chiffré.
 
 Permet de chiffrer un caractère avec un décalage donné (clé), modulo 26. Fonctionne à partir des valeurs ASCII des caractères. Code les majuscules en majuscules et les minuscules en minuscules. Les chiffres, les caractères spéciaux de la table ASCII de base restent intacts, de même que les espaces qui sont conservés.
 
 ### • char dechiffrerCesarCar (int cle, char c)
 
-entrée : entier Nombre de décalages à appliquer vers l’arrière.
-caractère Le caractère à déchiffrer
+entrée : (entier) Nombre de décalages à appliquer vers l’arrière.
+         (caractère) Le caractère à déchiffrer
 
-sortie : caractère Le caractère déchiffré
+sortie : (caractère) Le caractère déchiffré
 
 Permet de déchiffrer un caractère avec un décalage connu (clé), modulo 26. Fonctionne à partir des valeurs ASCII des caractères. Déchiffre les majuscules en majuscules et les minuscules en minuscules. Les chiffres, les caractères spéciaux de la table ASCII de base restent intacts, de même que les espaces qui sont conservés.
 
 ### • char* chiffrerCesar(char* chaine, int cle)
 
-entrée : chaîne chaîne à coder 
-entier Nombre de décalage à appliquer en avant
+entrée : (chaîne) chaîne à coder 
+         (entier) Nombre de décalage à appliquer en avant
 
-sortie : chaîne Chaîne chiffrée
+sortie : (chaîne) Chaîne chiffrée
 
 Permet de coder une chaine de caractères, caractère par caractère, en faisant appel à la fonction chiffrerCesarCar.
 
