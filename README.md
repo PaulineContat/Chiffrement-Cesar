@@ -7,7 +7,7 @@ Ce projet est disponible via ce lien : https://github.com/PaulineContat/Chiffrem
 Notre projet utilise 2 fonctionnalités distinctes telles que le codage et le décodage en César de saisie de texte
 
 Elle fonctionne avec l'ensemble des caractères, aussi bien les lettres que les caractères spéciaux de la table ASCII de base.
-Cela comprend donc les lettres majuscules et minuscules que l'application utilise 
+Cela comprend donc les lettres majuscules et minuscules que l'application utilise, mais aussi elle utilise les chiffres.
 
 # Utilisation de ce projet
 
@@ -58,7 +58,7 @@ Permet de décoder une chaine de caractères, caractère par caractère, en fais
 ###  •  int getAsciiCar(char c)
 entrée : (caractère) caractère dont on souhaite connaître la valeur ASCII
 
-sortie : (entier) valeur ASCII du caractère
+sortie : (entier) valeur ASCII du caractère souhaité
 
 Permet de connaître la valeur ASCII d'un caractère donné
 
