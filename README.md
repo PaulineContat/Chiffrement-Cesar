@@ -3,7 +3,7 @@
 # Chiffrement des messages
 Projet réalisé par CONTAT Pauline, LEMIRE Elléa et WAZYDRAG Théo (B1)
 
-Ce projet est disponible via ce lien : https://github.com/ ( Nous vous conseillons de lire le README directement sur la page d'accueil du projet via GitHub ).
+Ce projet est disponible via ce lien : https://github.com/PaulineContat/Chiffrement-Cesar ( Nous vous conseillons de lire le README directement sur la page d'accueil du projet via GitHub ).
 
 Notre projet utilise 2 fonctionnalités distinctes telles que le codage et le décodage en César de saisie de texte
 
