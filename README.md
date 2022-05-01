@@ -14,7 +14,8 @@ Cela comprend donc les lettres majuscules et minuscules que l'application utilis
 
 Avant tous, il est nécessaire de compiler l'entièreté des fichiers, pour cela il faut utiliser le makefile fourni dans le git, puis ensuite taper les commandes makeall et enfin pour mettre en route le programme il faut taper la commande ./main. Ces commandes nécessitent pour le bon fonctionnement un terminal sous Linux.
 # Documentation des fonctions
-cesar.c
+
+# cesar.c
 • char chiffrerCesarCar(int cle, char c)
 entrée : entier Nombre de décalages à appliquer vers l’avant.
 caractère Le caractère à chiffrer.
@@ -36,7 +37,7 @@ entier Nombre de décalages à appliquer vers l’avant
 sortie : chaîne Chaîne chiffrée
 Permet de décoder une chaine de caractères, caractère par caractère, en faisant appel à la fonction dechiffrerCesarCar.
 
-fonctionsCommunes.c
+#fonctionsCommunes.c
 
 ###  •  int getAsciiCar(char c)
 entrée : (caractère) caractère dont on souhaite connaître la valeur ASCII
