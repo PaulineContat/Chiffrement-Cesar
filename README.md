@@ -45,9 +45,10 @@ Permet de coder une chaine de caractères, caractère par caractère, en faisant
 
 ### • char* dechiffrerCesar (char* chaine, int cle)
 
-entrée : chaîne Chaîne à coder entier Nombre de décalages à appliquer vers l’avant
+entrée : (chaîne) Chaîne à coder 
+         (entier) Nombre de décalages à appliquer vers l’avant
 
-sortie : chaîne Chaîne chiffrée
+sortie : (chaîne) Chaîne chiffrée
 
 Permet de décoder une chaine de caractères, caractère par caractère, en faisant appel à la fonction dechiffrerCesarCar.
 
