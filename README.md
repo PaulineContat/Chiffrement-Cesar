@@ -59,6 +59,7 @@ Permet de décoder une chaine de caractères, caractère par caractère, en fais
 entrée : (caractère) caractère dont on souhaite connaître la valeur ASCII
 
 sortie : (entier) valeur ASCII du caractère
+
 Permet de connaître la valeur ASCII d'un caractère donné
 
 ###  •  char* saisieChaine()
@@ -72,7 +73,9 @@ Entrée : (chaîne) chaîne de caractères à vérifier
 Sortie : (entier) 0 si la chaîne est correcte, 1 si la chaîne est incorrect 
 
 Permet de vérifier si la chaine donnée ne contient pas de caractère avec des accents
+
 L’application réussi aussi bien à traiter les lettres majuscules et minuscules 
+
 Les caractères spéciaux utilisables sont les suivants : ! " # $ % & ' ( ) * + - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @
 
-L'application renvoie 1 (erreur) pour tout autre caractère non mentionné ci-dessus, ce qui comprend notamment les accents.
+L'application renvoie 1 pour tout caractère contenant un accent.
