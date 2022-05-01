@@ -12,6 +12,7 @@ Cela comprend donc les lettres majuscules et minuscules que l'application utilis
 # Utilisation de ce projet
 
 Avant tous, il est nécessaire de compiler l'entièreté des fichiers, pour cela il faut utiliser le makefile fourni dans le git, puis ensuite taper les commandes makeall et enfin pour mettre en route le programme il faut taper la commande ./main. Ces commandes nécessitent pour le bon fonctionnement un terminal sous Linux.
+
 # Documentation des fonctions
 
 # cesar.c
