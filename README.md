@@ -1,6 +1,5 @@
 # Chiffrement-Cesar
 
-# Chiffrement des messages
 Projet réalisé par CONTAT Pauline, LEMIRE Elléa et WAZYDRAG Théo (B1)
 
 Ce projet est disponible via ce lien : https://github.com/PaulineContat/Chiffrement-Cesar ( Nous vous conseillons de lire le README directement sur la page d'accueil du projet via GitHub ).
