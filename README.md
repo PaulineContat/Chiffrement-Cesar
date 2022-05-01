@@ -66,7 +66,7 @@ sortie : (chaîne) chaîne (son adresse) saisie par l'utilisateur
 
 Permet de demander à l'utilisateur de saisir une chaîne de caractères, et de l'enregistrer.
 
-###  •  int verifAccent(char* string)
+###  •  int verifAccent(char* chaine)
 Entrée : (chaîne) chaîne de caractères à vérifier
 
 Sortie : (entier) 0 si la chaîne est correcte, 1 si la chaîne est incorrect 
