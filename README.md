@@ -53,7 +53,7 @@ sortie : (chaîne) Chaîne chiffrée
 
 Permet de décoder une chaine de caractères, caractère par caractère, en faisant appel à la fonction dechiffrerCesarCar.
 
-#  fonctionsCommunes.c
+#  fonctions.c
 
 ###  •  int getAsciiCar(char c)
 entrée : (caractère) caractère dont on souhaite connaître la valeur ASCII
